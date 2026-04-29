@@ -36,7 +36,7 @@ I'm a **Flutter Developer** specializing in building **high-performance, cross-p
 - Collaborated with cross-functional teams for end-to-end delivery
 
 ### 🔹 Flutter Developer @ Codematics Services Pvt Ltd
-**Oct 2024 - Sep 2025**
+**Nov 2024 - Sep 2025**
 - Developed multiple cross-platform Flutter mobile applications (frontend & backend)
 - Integrated Firebase services and REST APIs for secure, real-time functionality
 - Designed responsive, intuitive user interfaces
