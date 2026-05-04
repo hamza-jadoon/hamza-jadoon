@@ -238,12 +238,12 @@ This comprehensive bootcamp covered:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-jadoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-jadoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-jadoon&theme=tokyonight&hide_border=true&background=1F222E&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-jadoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=2E9EF7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-jadoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </p>
 
 ---
