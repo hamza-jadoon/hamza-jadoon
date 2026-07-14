@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Flutter Developer** from **Islamabad, Pakistan**, specializing in crafting **high-performance, cross-platform mobile applications** that run seamlessly on both **iOS and Android**. With a solid foundation in **Flutter, Dart, and Firebase**, I transform ideas into scalable, production-ready apps that deliver exceptional user experiences.
+I'm a passionate **Software Engineer** from **Islamabad, Pakistan**, specializing in crafting **high-performance, cross-platform mobile applications** that run seamlessly on both **iOS and Android**. With a solid foundation in **Flutter, Dart, and Firebase**, I transform ideas into scalable, production-ready apps that deliver exceptional user experiences.
 
 My development philosophy centers around **clean architecture**, **efficient state management**, and **modern best practices** — ensuring every line of code I write is maintainable, scalable, and future-proof. I don't just build apps; I create digital solutions that solve real-world problems and make a meaningful impact.
 
